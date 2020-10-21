@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mobilefacktory.multipoc",
+    "sha256_cert_fingerprints":
+    ["B6:CD:B1:85:D0:31:A6:56:E7:19:E0:6E:7D:C8:63:91:2C:DB:C2:9D:87:53:F9:A2:37:95:62:15:D9:CD:79:C2"]
+  }
+}]
